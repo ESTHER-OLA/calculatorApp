@@ -12,7 +12,7 @@ A simple command-line calculator built with Node.js.
 ### Installation
 
 ```bash
-git clone (https://github.com/ESTHER-OLA/calculatorApp)
+git clone: https://github.com/ESTHER-OLA/calculatorApp
 cd calculator-app
 npm install
 ```
